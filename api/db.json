@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "6075",
+      "name": "Akteruzzaman",
+      "email": "aktruzzamandwipu@gmail.com",
+      "roll": "3489",
+      "location": "mirput",
+      "photo": "https://pbs.twimg.com/media/EuXEkjWUUAIXi6c?format=jpg&name=large"
+    },
+    {
+      "id": "e022",
+      "name": "op",
+      "email": "romnyu@gmail.com",
+      "roll": "3484",
+      "location": "mir",
+      "photo": "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/290489668_3090196994627724_8484658962588872912_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=x4GmnNgmV9QAX8V7__n&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfD8OubI_aAAOkvsO1M6lzlC1n9am5U-63oT6ECVAH5qfA&oe=657744FB"
+    },
+    {
+      "id": "c060",
+      "name": "dwipu",
+      "email": "aktruzzamandwipu@gmai.com",
+      "roll": "1236",
+      "location": "sfdsa",
+      "photo": "https://pbs.twimg.com/media/FuuBgg7aUAEe-pH?format=jpg&name=4096x4096"
+    }
+  ]
+}
